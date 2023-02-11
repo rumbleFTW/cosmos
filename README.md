@@ -7,7 +7,7 @@
 
 - Clone the repo:
 ```
-git clone 
+git clone https://github.com/rumbleFTW/cosmos.git
 ```
 
 - For GTK3, apply themes from Gnome Tweaks.
